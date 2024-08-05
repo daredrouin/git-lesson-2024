@@ -19,3 +19,8 @@ To create and switch to a branch use the command
 To switch to an existing branch, use
 
 'git switch BRANCH_NAME'
+
+# Pull Instructions
+
+To submit your feature to be incorporated to the main branch, you should submit a 'Pull Request'.
+The repository maintainers wiull review your pull request before accepting your changes.
